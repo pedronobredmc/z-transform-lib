@@ -12,7 +12,7 @@ Principais Funcionalidades
 - Resposta a Entradas Comuns: Cálculo da resposta para entradas típicas como degrau, impulso e senoidais.
 - Convolução e Análise de Sistemas: Implementação de convolução discreta e análise da resposta ao impulso de sistemas LTI.
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas \
 Linguagem: Python
 Bibliotecas Auxiliares: SymPy, NumPy, SciPy, Matplotlib
 Aplicações
