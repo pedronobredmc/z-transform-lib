@@ -24,8 +24,8 @@ Essa biblioteca será útil tanto para estudantes quanto para profissionais que 
 
 
 Contribuições:
-- ceccimesquita : 
-- pedronobredmc : 
+- ceccimesquita : Cecília Mourão
+- pedronobredmc : Pedro Nobrega
 - marcusnogueiraa : 
 - wl11lm : William Marreiro
 - ⁠Arthursnoww : Arthur Roberto 
