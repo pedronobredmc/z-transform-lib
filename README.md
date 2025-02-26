@@ -1,6 +1,6 @@
 # TransformadaZ_Python
 Biblioteca de Transformada Z em Python \
-Descrição do Projeto: \
+- Descrição do Projeto: \
 Esta biblioteca tem como objetivo fornecer ferramentas matemáticas para a análise e manipulação de sistemas discretos no domínio Z. Ela implementará a Transformada Z direta, inversa e operações relacionadas, facilitando a análise de sinais e sistemas em tempo discreto.
 
 Principais Funcionalidades
@@ -19,11 +19,11 @@ Aplicações
 Engenharia de Controle
 Processamento de Sinais
 Sistemas Digitais e Comunicações
-Modelagem e Simulação de Sistemas
+Modelagem e Simulação de Sistemas \
 Essa biblioteca será útil tanto para estudantes quanto para profissionais que trabalham com análise de sistemas em tempo discreto, proporcionando uma implementação acessível e interativa para estudos e aplicações práticas.
 
 
-Contribuição:
+Contribuição: \
 - ceccimesquita : 
 - pedronobredmc : 
 - marcusnogueiraa : 
