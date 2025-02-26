@@ -23,7 +23,7 @@ Modelagem e Simulação de Sistemas \
 Essa biblioteca será útil tanto para estudantes quanto para profissionais que trabalham com análise de sistemas em tempo discreto, proporcionando uma implementação acessível e interativa para estudos e aplicações práticas.
 
 
-Contribuição:
+Contribuições:
 - ceccimesquita : 
 - pedronobredmc : 
 - marcusnogueiraa : 
