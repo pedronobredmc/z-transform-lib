@@ -22,25 +22,26 @@ Sistemas Digitais e Comunicações
 Modelagem e Simulação de Sistemas \
 Essa biblioteca será útil tanto para estudantes quanto para profissionais que trabalham com análise de sistemas em tempo discreto, proporcionando uma implementação acessível e interativa para estudos e aplicações práticas.
 
+## Contribuidores
 
-Contribuições:
-- ceccimesquita : Cecília Mourão
-- pedronobredmc : Pedro Nobrega
-- marcusnogueiraa : 
-- wl11lm : William Marreiro
-- ⁠Arthursnoww : Arthur Roberto 
-- elitonnmelo : Éliton Melo
-- JosueSucupira : Josué Sucupira 
-- AndreAlves-18 : André Alves 
-- MaryanaMoraes : Maryana Moraes 
-- calebe-sucupira : Calebe Sucupira 
-- CaioJ0rdan : Caio Jordan
-- ryanguilherme : Ryan Guilherme
-- gislansouz :
-- PabloBr4ndao : Pablo Brandão
-- guiaf04 : Guilherme Araújo 
-- ⁠ronaldmth01 : Ronald Matheus 
-- ⁠felipeft : 
-- alissonrodrigues0120 : 
-- Juanp-25 : 
-- GabrielDias26 : Gabriel Barbosa
+- [ceccimesquita](https://github.com/ceccimesquita) - Cecilia Mourão
+- [pedronobredmc](https://github.com/pedronobredmc)
+- [marcusnogueiraa](https://github.com/marcusnogueiraa)
+- [wl11lm](https://github.com/wl11lm) - William Marreiro
+- [Arthursnoww](https://github.com/Arthursnoww) - Arthur Roberto
+- [elitonnmelo](https://github.com/elitonnmelo) - Éliton Melo
+- [JosueSucupira](https://github.com/JosueSucupira) - Josué Sucupira
+- [AndreAlves-18](https://github.com/AndreAlves-18) - André Alves
+- [MaryanaMoraes](https://github.com/MaryanaMoraes) - Maryana Moraes
+- [calebe-sucupira](https://github.com/calebe-sucupira) - Calebe Sucupira
+- [CaioJ0rdan](https://github.com/CaioJ0rdan) - Caio Jordan
+- [ryanguilherme](https://github.com/ryanguilherme) - Ryan Guilherme
+- [gislansouz](https://github.com/gislansouz)
+- [PabloBr4ndao](https://github.com/PabloBr4ndao)
+- [guiaf04](https://github.com/guiaf04) - Guilherme Araújo
+- [ronaldmth01](https://github.com/ronaldmth01) - Ronald Matheus
+- [felipeft](https://github.com/felipeft)
+- [alissonrodrigues0120](https://github.com/alissonrodrigues0120)
+- [Juanp-25](https://github.com/Juanp-25)
+- [GabrielDias26](https://github.com/GabrielDias26) - Gabriel Barbosa
+
