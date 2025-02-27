@@ -36,7 +36,7 @@ Essa biblioteca será útil tanto para estudantes quanto para profissionais que 
 - [calebe-sucupira](https://github.com/calebe-sucupira) - Calebe Sucupira
 - [CaioJ0rdan](https://github.com/CaioJ0rdan) - Caio Jordan
 - [ryanguilherme](https://github.com/ryanguilherme) - Ryan Guilherme
-- [gislansouz](https://github.com/gislansouz)
+- [gislansouz](https://github.com/gislansouz) - Gislan Souza
 - [PabloBr4ndao](https://github.com/PabloBr4ndao)
 - [guiaf04](https://github.com/guiaf04) - Guilherme Araújo
 - [ronaldmth01](https://github.com/ronaldmth01) - Ronald Matheus
