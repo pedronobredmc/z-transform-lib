@@ -25,7 +25,7 @@ Essa biblioteca será útil tanto para estudantes quanto para profissionais que 
 ## Contribuidores
 
 - [ceccimesquita](https://github.com/ceccimesquita) - Cecilia Mourão
-- [pedronobredmc](https://github.com/pedronobredmc)
+- [pedronobredmc](https://github.com/pedronobredmc) - Pedro Nóbrega
 - [marcusnogueiraa](https://github.com/marcusnogueiraa)
 - [wl11lm](https://github.com/wl11lm) - William Marreiro
 - [Arthursnoww](https://github.com/Arthursnoww) - Arthur Roberto
