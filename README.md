@@ -22,6 +22,26 @@ Sistemas Digitais e Comunicações
 Modelagem e Simulação de Sistemas \
 Essa biblioteca será útil tanto para estudantes quanto para profissionais que trabalham com análise de sistemas em tempo discreto, proporcionando uma implementação acessível e interativa para estudos e aplicações práticas.
 
+## Instruções de Uso
+
+Para utilizar a biblioteca, dois modos são aconselhados:
+
+* Nativamente, via jupyter notebook, ou simplesmente python:
+    * Para utilização local, é necessário instalar inicialmente os requisitos. Sendo assim, no terminal, execute:
+    ```bash
+        git clone https://github.com/pedronobredmc/z-transform-lib
+        cd z-transform-lib
+        cd code
+        pip install .
+    ```
+    * Fazendo isso, para utilizar qualquer biblioteca disponibilizada neste repositório, basta incluir o prefixo ```.lib``` antes
+* Via colab:
+    * Para utilização via google colab, um arquivo padrão está disponibilizado para utilização mais simplificada: 
+    <a target="_blank" href="https://colab.research.google.com/gist/guiaf04/190ce13d944bc29eb0f579eefafc7e31/z-transform-sample.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+    </a>
+    * Neste exemplo, é realizada a configuração do ambiente, permitindo utilizar as bibliotecas sem maiores preocupações
+
 ## Contribuidores
 
 - [ceccimesquita](https://github.com/ceccimesquita) - Cecilia Mourão
