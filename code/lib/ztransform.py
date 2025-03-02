@@ -406,4 +406,4 @@ def ztransform(expr, n, z, evaluate=True, **kwargs):
                                   evaluate=evaluate, **kwargs)
 
 
-from .expr import Expr  # nopep8
+#from .expr import Expr  # nopep8
