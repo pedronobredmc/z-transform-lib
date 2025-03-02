@@ -61,7 +61,7 @@ Para utilizar a biblioteca, dois modos são aconselhados:
 - [guiaf04](https://github.com/guiaf04) - Guilherme Araújo
 - [ronaldmth01](https://github.com/ronaldmth01) - Ronald Matheus
 - [felipeft](https://github.com/felipeft) - Felipe Feitosa
-- [alissonrodrigues0120](https://github.com/alissonrodrigues0120)
+- [alissonrodrigues0120](https://github.com/alissonrodrigues0120) - Alisson Rodrigues
 - [Juanp-25](https://github.com/Juanp-25) - Juan Pablo
 - [GabrielDias26](https://github.com/GabrielDias26) - Gabriel Barbosa
 
