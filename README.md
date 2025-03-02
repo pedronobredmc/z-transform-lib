@@ -46,7 +46,7 @@ Para utilizar a biblioteca, dois modos são aconselhados:
 
 - [ceccimesquita](https://github.com/ceccimesquita) - Cecilia Mourão
 - [pedronobredmc](https://github.com/pedronobredmc) - Pedro Nóbrega
-- [marcusnogueiraa](https://github.com/marcusnogueiraa)
+- [marcusnogueiraa](https://github.com/marcusnogueiraa) - Marcus Nogueira
 - [wl11lm](https://github.com/wl11lm) - William Marreiro
 - [Arthursnoww](https://github.com/Arthursnoww) - Arthur Roberto
 - [elitonnmelo](https://github.com/elitonnmelo) - Éliton Melo
@@ -57,11 +57,11 @@ Para utilizar a biblioteca, dois modos são aconselhados:
 - [CaioJ0rdan](https://github.com/CaioJ0rdan) - Caio Jordan
 - [ryanguilherme](https://github.com/ryanguilherme) - Ryan Guilherme
 - [gislansouz](https://github.com/gislansouz) - Gislan Souza
-- [PabloBr4ndao](https://github.com/PabloBr4ndao)
+- [PabloBr4ndao](https://github.com/PabloBr4ndao) - Pablo Brandão
 - [guiaf04](https://github.com/guiaf04) - Guilherme Araújo
 - [ronaldmth01](https://github.com/ronaldmth01) - Ronald Matheus
-- [felipeft](https://github.com/felipeft)
+- [felipeft](https://github.com/felipeft) - Felipe Feitosa
 - [alissonrodrigues0120](https://github.com/alissonrodrigues0120)
-- [Juanp-25](https://github.com/Juanp-25)
+- [Juanp-25](https://github.com/Juanp-25) - Juan Pablo
 - [GabrielDias26](https://github.com/GabrielDias26) - Gabriel Barbosa
 
