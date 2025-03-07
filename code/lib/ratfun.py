@@ -9,13 +9,6 @@ from warnings import warn
 Zero = sym.S.Zero
 One = sym.S.One
 
-# Perhaps have 3 classes to represent responses?
-# 1. RationalFunction            N(s) / D(s)
-# 2. RationalFunctionWithExp     B(s) * exp(-s * T) / D(s)
-# 3. RationalFunctionWithExpSum  Sum(B_m(s) * exp(-s * T_m), m) / D(s)
-#
-# 2 is a generalized form of 1 with T = 0.
-
 
 def polyroots(poly, var):
     """Return roots of polynomial `poly` for variable `var`."""
@@ -200,18 +193,6 @@ def as_B_A_delay_undef(expr, var):
 class Ratfun(object):
 
     def __init__(self, expr, var):
-        """This represents a generalized rational function of the form:
-        `N(var) / D(var) = (B(var) / A(var)) * exp(-var * delay) * U(var)`
-
-        where B and D are polynomials in var and U is the product of
-        undefined functions of var.
-
-        Note, delay only represents a delay when var is s.
-
-        It does not detect expressions such as:
-        `B(var) * (1 - exp(-var * delay)) / A(var)
-
-        """
 
         self.expr = expr
         self.var = var
@@ -342,20 +323,6 @@ class Ratfun(object):
         return sym.Poly(self.A, self.var)
 
     def canonical(self, factor_const=True):
-        """Convert rational function to canonical form; this is like general
-        form but with a unity highest power of denominator.  For
-        example,
-
-        (5 * s**2 + 5 * s + 5) / (s**2 + 4)
-
-        If factor_const is True, factor constants from numerator, for example,
-
-        5 * (s**2 + s + 1) / (s**2 + 4)
-
-        See also general, partfrac, standard, timeconst, and ZPK
-
-        """
-
         var = self.var
         Apoly = self.Apoly
         Bpoly = self.Bpoly
